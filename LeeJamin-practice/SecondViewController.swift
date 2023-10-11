@@ -26,7 +26,9 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         bindText()
+
         backButton.layer.cornerRadius = 8
+
 
     }
     
